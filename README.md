@@ -2,7 +2,7 @@
 <h3 align="left">Frontend IT-Web Developer In Norway</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** & **Bootstrap**
 
 - 📫 How to reach me **aerolmercadojrjr03@gmail.com**
 
