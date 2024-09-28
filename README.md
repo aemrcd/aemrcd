@@ -1,5 +1,5 @@
 <h1 align="left">👋, I'm Angelito Mercado Jr</h1>
-<h3 align="left">Frontend IT-Web Developer In Norway</h3>
+<h3 align="left">Frontend IT-Web Developer/IT-Operations In Norway</h3>
 
 
 - 🌱 I’m currently learning **React** & **Bootstrap**
