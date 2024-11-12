@@ -46,3 +46,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aemrcd&show_icons=true&locale=en" alt="aemrcd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aemrcd&" alt="aemrcd" /></p>
+
+
+![Snake animation](https://raw.githubusercontent.com/aemrcd/output/github-contribution-grid-snake-dark.svg)
