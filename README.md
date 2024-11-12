@@ -48,4 +48,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aemrcd&" alt="aemrcd" /></p>
 
 
-![Snake animation](https://raw.githubusercontent.com/aemrcd/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/aemrcd/aemrcd/output/github-contribution-grid-snake-dark.svg)
